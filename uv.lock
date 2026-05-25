@@ -20,6 +20,7 @@ dependencies = [
     { name = "pandas" },
     { name = "scipy" },
     { name = "seaborn" },
+    { name = "stargazer" },
     { name = "statsmodels" },
 ]
 
@@ -30,6 +31,7 @@ requires-dist = [
     { name = "pandas", specifier = ">=3.0.3" },
     { name = "scipy", specifier = ">=1.17.1" },
     { name = "seaborn", specifier = ">=0.13.2" },
+    { name = "stargazer", specifier = ">=0.0.7" },
     { name = "statsmodels", specifier = ">=0.14.6" },
 ]
 
@@ -595,6 +597,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/94/e7/b2c673351809dca68a0e064b6af791aa332cf192da575fd474ed7d6f16a2/six-1.17.0.tar.gz", hash = "sha256:ff70335d468e7eb6ec65b95b99d3a2836546063f63acc5171de367e834932a81", size = 34031, upload-time = "2024-12-04T17:35:28.174Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/b7/ce/149a00dd41f10bc29e5921b496af8b574d8413afcd5e30dfa0ed46c2cc5e/six-1.17.0-py2.py3-none-any.whl", hash = "sha256:4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274", size = 11050, upload-time = "2024-12-04T17:35:26.475Z" },
+]
+
+[[package]]
+name = "stargazer"
+version = "0.0.7"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/a9/aa/60b4de7d3db9145ad9a20531a4339e3517ce075425bd066103b06340358f/stargazer-0.0.7.tar.gz", hash = "sha256:ba40f35a492377cc1a1dcc55c45a63e177a6fc0d51c926b50a1b70b23a93c72f", size = 15893, upload-time = "2024-04-04T13:18:52.66Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/af/49/0f0bc34f94e6ba65f8e5cc06208d11759153f02fb61f4a9f9db98e86bb68/stargazer-0.0.7-py3-none-any.whl", hash = "sha256:0bd47e7fd0a41317724743a63f6c92472d27adf8ab12d7e4d2682fc31aa51bca", size = 15973, upload-time = "2024-04-04T13:18:50.227Z" },
 ]
 
 [[package]]
