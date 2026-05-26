@@ -24,7 +24,7 @@ Each folder contains a distict assignment, consiting of:
 ### 1. Devotion and Development (Squicciarini, 2020)
 * **Topic:** Evaluating the interaction between religiosity, primary school curricula, and industrial development during the Second Industrial Revolution in France [cite: 4-8].
 * **Core Tasks Replicated:** Multi-cohort panel analysis, Department/Cohort Fixed Effects, and alternative mechanism robustness checks (fertility and vaccination controls).
-* **Folder:** `/Religion_and_economic_development`
+* **Folder:** `/Religion and economic development`
 
 
 
