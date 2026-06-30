@@ -29,10 +29,8 @@ The analysis relies on the dataset compiled by the authors, which includes:
 
 * **Language:** Python 3
 * **Data Manipulation & Visualization:** `pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`
-
 * **Econometric Modeling:** `statsmodels` (for OLS estimation), `linearmodels.iv` (for IV-2SLS estimation)
-
-* **Result Formatting:** `stargazer` (for automated regression table generation)
+* **Result Formatting:** `stargazer` 
 
 
 
@@ -40,13 +38,11 @@ The analysis relies on the dataset compiled by the authors, which includes:
 
 1. **Visualizing the Reduced Form:** Recreating the scatter plot mapping log settler mortality to log GDP per capita to illustrate the raw, reduced-form relationship.
 
-
 2. **Baseline OLS Estimates:** Regressing economic performance on institutional quality, progressively adding geographic controls to highlight the limits of standard OLS (omitted variable bias and reverse causality).
 
 
 3. **Instrumental Variable (IV-2SLS) Strategy:**
    * **First Stage:** Validating the instrument by regressing current institutions on historical settler mortality.
-
 
    * **Second Stage:** Estimating the causal impact of the exogenous variation in institutions on modern economic performance across different sample restrictions (e.g., excluding Neo-Europes or Africa).
 

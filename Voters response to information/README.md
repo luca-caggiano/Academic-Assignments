@@ -2,16 +2,16 @@
 
 ## Overview
 
-This folder has a Python-based replication of the key findings from “How Do Voters Respond to Information? Evidence from a Randomized Campaign,”. The original replication was done in Stata, but this project shows how the same econometric analysis can be done in Python.
+This folder has a Python-based replication of the key findings from “How Do Voters Respond to Information? Evidence from a Randomized Campaign”. The original replication was done in Stata, but this project shows how the same econometric analysis can be done in Python.
 ## Objective
 
-This project originated as an academic assignment, where the goal was to replicate the findings of a published Randomized Controlled Trial (RCT). To bridge the gap between academic research and industry standards, I took the initiative to translate the original Stata-based methodology into a Python workflow.
+This project originated as an academic assignment, where the goal was to replicate the findings of a published Randomized Controlled Trial (RCT). I took the initiative to translate the original Stata-based methodology into a Python workflow.
 
-The primary objective of this repository is to practice technical skills. Specifically, it shows the ability to:
+The primary objective of this assignemnt is to practice technical skills. Specifically, it shows the ability to:
 - **Validate Experiments**: Run ex-ante balancing tests to rigorously verify randomization protocols.
 - **Implement Statistical Models**: Apply Ordinary Least Squares (OLS) and probability models, adjusting for clustered robust standard errors.
 - **Communicate Results**: Generate clear regression tables using stargazer to present statistical findings effectively.
-- 
+  
 ## The Data
 
 The analysis relies on two primary datasets, based on the 2011 municipal elections in Arezzo, Italy:
@@ -25,7 +25,7 @@ The analysis relies on two primary datasets, based on the 2011 municipal electio
 * **Language:** Python 3
 * **Data Manipulation:** `pandas`, `numpy`
 * **Econometric Modeling:** `statsmodels` (OLS, formulas, clustered standard errors)
-* **Result Formatting:** `stargazer` (for publication-quality regression tables)
+* **Result Formatting:** `stargazer` 
 * **Environment:** Jupyter Notebook (`.ipynb`)
 
 ## Methodology & Key Steps
