@@ -55,3 +55,6 @@ The analysis relies on the dataset compiled by the authors, which includes:
 The replication successfully confirms the original paper's findings:
 * **Institutions Matter:** There is a massive, statistically significant, and causal impact of institutional quality (property rights) on long-term economic development.
 * **Geography is Secondary:** Once the endogeneity of institutions is controlled for via the settler mortality instrument, previously significant geographic variables (like latitude or continent dummies) lose their explanatory power.
+
+## References
+Acemoglu, Daron, Simon Johnson, and James A. Robinson. 2001. "The Colonial Origins of Comparative Development: An Empirical Investigation." American Economic Review 91 (5): 1369–1401.

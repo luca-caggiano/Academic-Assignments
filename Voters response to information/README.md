@@ -42,3 +42,6 @@ Replicating the authors' original findings, the analysis confirms that:
 * **Content Matters:** Campaign messages emphasizing the incumbent's *valence* (competence and effort) significantly increased the incumbent's vote share.
 * **Medium Matters:** Phone calls were a highly effective delivery mechanism, while direct mailers had negligible or statistically insignificant effects on voting choices.
 * **Ideology vs. Competence:** Ideological messages did not translate into a statistically significant advantage compared to the control group, highlighting a stronger voter responsiveness to verifiable competence.
+
+## References
+Kendall, Chad, Tommaso Nannicini, and Francesco Trebbi. 2015. "How Do Voters Respond to Information? Evidence from a Randomized Campaign." American Economic Review 105 (1): 322–53.
